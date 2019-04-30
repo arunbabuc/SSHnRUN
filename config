@@ -1,0 +1,4 @@
+# INST_IPS=("10.202.6.104" "10.202.6.90")
+INST_IPS=(" " "")
+USER_NAME="username"
+SSH_KEY=""
